@@ -1,0 +1,28 @@
+{
+  "name": "tdd.js",
+  "version": "1.0.0",
+  "description": "TDD exercise inspired by Kent Beck",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^3.4.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  },
+  "scripts": {
+    "test": "mocha ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/joerx/tdd.js.git"
+  },
+  "keywords": [
+    "tdd"
+  ],
+  "author": "Joerg Henning <henning.joerg@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joerx/tdd.js/issues"
+  },
+  "homepage": "https://github.com/joerx/tdd.js#readme"
+}
