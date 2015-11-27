@@ -2,7 +2,7 @@
   "name": "tdd.js",
   "version": "1.0.0",
   "description": "TDD exercise inspired by Kent Beck",
-  "main": "index.js",
+  "main": "money.js",
   "dependencies": {
     "chai": "^3.4.1"
   },
